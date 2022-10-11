@@ -83,7 +83,7 @@
 
 <details>
   <summary> Show AbduazimDev's Github Stats</summary> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
