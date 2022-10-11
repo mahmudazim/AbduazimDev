@@ -83,7 +83,7 @@
   <summary> Show AbduazimDev's Github Stats</summary> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&hide_border=true&layout=compact" align="center" /></div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
 
 <br/>  
 </details>
