@@ -85,18 +85,12 @@
   <summary> Show AbduazimDev's Github Stats</summary> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev) -->
-
 <br/>  
-</details>
-<details>
-  <summary> Show AbduazimDev's Activity Graph </summary>
-  <br>
-  <a href="#">
-    <img align="center" alt="AbduazimDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abduazimdev&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
-  </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
 
 </details>
+
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
