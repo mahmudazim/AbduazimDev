@@ -97,7 +97,7 @@
   </a>
 
 </details>
-----
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AbduazimDev&&style=flat-square" align="center" />
 </div>  
