@@ -6,6 +6,7 @@
 ### <div align="center">I'm Abduazim, a full-time full-stack web freelance developer 👨‍💻</div>  
 
 <br/>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbduazimDev&theme=github_dark" alt="info">
 
 
 ## My Skill Set  
@@ -83,7 +84,7 @@
   <summary> Show AbduazimDev's Github Stats</summary> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev) -->
 
 <br/>  
 </details>
