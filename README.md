@@ -6,7 +6,9 @@
 ### <div align="center">I'm Abduazim, a full-time full-stack web freelance developer 👨‍💻</div>  
 
 <br/>  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbduazimDev&theme=github_dark" alt="info">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbduazimDev&theme=github_dark" alt="info">
+</div>
 
 
 ## My Skill Set  
@@ -83,17 +85,15 @@
 
 <details>
   <summary> Show Abduazim's Github Stats</summary> 
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 </details>
 
 <details>
   <summary> Show Abduazim's Language Stats</summary>
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![AbduazimDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
-
-
-</div> 
 </details>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
