@@ -86,9 +86,11 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbduazimDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 </details>
+
 <details>
-  <summary> Show Abduazim's Language Stats</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
+  <summary> Show Abduazim's Github Stats</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
 </details>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
