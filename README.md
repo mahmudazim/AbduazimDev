@@ -93,8 +93,9 @@
 <details>
   <summary> Show Abduazim's Language Stats</summary>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/), <br/>
- [![AbduazimDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=github_dark&show_icons=true)](https://github.com/AbduazimDev/),
+ <br/>
+[![AbduazimDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)
  </div>
 </details>
 
