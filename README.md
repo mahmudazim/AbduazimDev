@@ -16,7 +16,11 @@
 [![](https://gtce.itsvg.in/api?username=Nosir0vich)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbduazimDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abduazim) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abduazim) 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AbduazimDev&&style=flat-square" align="center" />
+</div>  
