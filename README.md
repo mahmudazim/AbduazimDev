@@ -15,7 +15,8 @@
 ## 🐦 Latest Tweet
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=nosir0vich&theme=dark&response=true&border=false&time=true&icon=default"/></a>
 
-  ## 💰 You can help me by Donating
+
+
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abduazim) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abduazim) 
 
 <div align="center">
