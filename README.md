@@ -8,7 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AbduazimDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbduazimDev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-[![WakaTime](https://wakatime.com/badge/user/AbduazimDev.svg)](https://wakatime.com/@AbduazimDev)
 [![wakatime](https://wakatime.com/badge/user/bd5566d9-52e7-4ca7-9b54-fda1a945db00.svg)](https://wakatime.com/@bd5566d9-52e7-4ca7-9b54-fda1a945db00)
 
 ## 🏆 GitHub Trophies
