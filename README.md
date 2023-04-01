@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbduazimDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbduazimDev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduazimDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<figure><embed src="https://wakatime.com/share/@AbduazimDev/3bd4d264-b198-4c95-8f7a-3c4b2b392b19.svg"></embed></figure>
 [![wakatime](https://wakatime.com/badge/user/bd5566d9-52e7-4ca7-9b54-fda1a945db00.svg)](https://wakatime.com/@bd5566d9-52e7-4ca7-9b54-fda1a945db00)
 
 ## 🏆 GitHub Trophies
