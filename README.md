@@ -6,9 +6,9 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbduazimDev&theme=dark&hide_border=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AbduazimDev&theme=dark&hide_border=true)<br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbduazimDev&theme=github_dark&layout=compact)](https://wakatime.com/@AbduazimDev)<br>
-[![wakatime](https://wakatime.com/badge/user/bd5566d9-52e7-4ca7-9b54-fda1a945db00.svg)](https://wakatime.com/@bd5566d9-52e7-4ca7-9b54-fda1a945db00)<br>
+[![wakatime](https://wakatime.com/badge/user/bd5566d9-52e7-4ca7-9b54-fda1a945db00.svg)](https://wakatime.com/@bd5566d9-52e7-4ca7-9b54-fda1a945db00)<br>  -->
 
 
 ## 🏆 GitHub Trophies
